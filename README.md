@@ -31,7 +31,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 
 ### 💻 Languages  
 ![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
