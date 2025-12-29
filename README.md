@@ -81,14 +81,9 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
   <img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch0007&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p> -->
 ### 🧠 Coding Profiles  
-![LeetCode](https://leetcode.com/ShadowMonarch0007)  
-![CodeChef](https://www.codechef.com/users/ShadowMonarch0007)  
-![Codeforces](https://codeforces.com/profile/ShadowMonarch0007)
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Shadow_Monarch007&theme=dark" />
-</p>
-
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 
 ---
