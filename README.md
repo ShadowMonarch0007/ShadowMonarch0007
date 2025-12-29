@@ -86,8 +86,8 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ShadowMonarch0007/driver-danger-alert-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowMonarch0007&repo=driver-danger-alert-system&theme=tokyonight" />
+  <a href="https://github.com/ShadowMonarch0007/Driver-Danger-Alert-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowMonarch0007&repo=Driver-Danger-Alert-System&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/ShadowMonarch0007/luxeloom">
