@@ -75,11 +75,16 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch0007&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
+### 🧠 Coding Profiles  
+![LeetCode](https://leetcode.com/ShadowMonarch0007)  
+![CodeChef](https://www.codechef.com/users/ShadowMonarch0007)  
+![Codeforces](https://codeforces.com/profile/ShadowMonarch0007)
+
 
 ---
 
