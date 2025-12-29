@@ -85,11 +85,9 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
   <a href="https://leetcode.com/u/Shadow_Monarch007/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
-
   <a href="https://codeforces.com/profile/ShadowMonarch007">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-
   <a href="https://www.codechef.com/users/shad0wm0narch7">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
