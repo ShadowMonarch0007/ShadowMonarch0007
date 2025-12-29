@@ -85,6 +85,11 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ![CodeChef](https://www.codechef.com/users/ShadowMonarch0007)  
 ![Codeforces](https://codeforces.com/profile/ShadowMonarch0007)
 
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Shadow_Monarch007&theme=dark" />
+</p>
+
+
 
 ---
 
