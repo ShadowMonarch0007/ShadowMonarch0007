@@ -30,7 +30,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -49,7 +49,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 
 ### 🧠 AI / Computer Vision  
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-008567?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
