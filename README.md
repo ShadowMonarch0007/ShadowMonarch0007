@@ -88,12 +88,13 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 <p align="center">
   <a href="https://github.com/ShadowMonarch0007/driver-danger-alert-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowMonarch0007&repo=driver-danger-alert-system&theme=tokyonight" />
-  </a>  
+  </a>
 
-  <a href="[Ecommerce Platform](https://github.com/ShadowMonarch0007/luxeloom)">
+  <a href="https://github.com/ShadowMonarch0007/luxeloom">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowMonarch0007&repo=luxeloom&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
