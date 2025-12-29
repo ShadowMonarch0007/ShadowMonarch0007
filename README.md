@@ -50,7 +50,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 
 ### 🗄️ Databases & Tools  
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman)
 
