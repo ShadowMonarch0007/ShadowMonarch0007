@@ -69,7 +69,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch0007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch0007&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch0007&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -83,7 +83,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 
 ---
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/ShadowMonarch0007/Driver-Danger-Alert-System">
@@ -96,7 +96,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 </p>
 
 
----
+--- -->
 
 ## 🏆 Achievements
 
