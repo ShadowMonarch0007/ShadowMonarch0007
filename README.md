@@ -3,10 +3,15 @@
 <!-- ===================== -->
 
 <h1 align="center">Hi 👋, I'm Aditya Chandra</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -15,20 +20,21 @@
 
 🎓 **B.Tech @ NIT Rourkela (2022–2026)**  
 💻 Passionate about **Full Stack Development, System Design & Computer Vision**  
-🔥 Love building scalable, real-world applications  
 🧠 Solved **1600+ DSA problems** across platforms  
-🏊‍♂️ Represented **NIT Rourkela** at the **All India Inter-NIT Swimming Tournament**
+🏊‍♂️ Represented **NIT Rourkela** at the **All India Inter-NIT Swimming Tournament**  
+
+I enjoy building **scalable, clean, and user-centric products**, and I’m always excited to learn and explore new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### 🌐 Web & Frameworks  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -59,29 +65,24 @@
 
 ---
 
-## 📈 Most Used Languages
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🔹 Driver Danger Alert System  
-**Tech:** Python, OpenCV, MediaPipe  
-✔ Real-time drowsiness detection  
-✔ 95%+ accuracy  
-✔ 25+ FPS processing  
-
----
-
-### 🔹 Full Stack E-Commerce Platform  
-**Tech:** MERN, Tailwind, Stripe  
-✔ Secure payments  
-✔ Admin dashboard  
-✔ 50% faster order handling  
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/driver-danger-alert-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=driver-danger-alert-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/ecommerce-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ecommerce-platform&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -95,7 +96,7 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-anil-chandra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -106,4 +107,4 @@
 
 ---
 
-⭐ *“Building meaningful products, one commit at a time.”*
+⭐ *"Building meaningful products, one commit at a time."*
