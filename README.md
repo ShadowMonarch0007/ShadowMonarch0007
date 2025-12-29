@@ -30,19 +30,19 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python)
 
 ### 🌐 Web & Frameworks  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-FFFFFF?style=for-the-badge&logo=framer)
 
 ### 🧠 AI / Computer Vision  
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
