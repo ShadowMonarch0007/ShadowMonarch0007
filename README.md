@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShadowMonarch0007&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
@@ -34,6 +34,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python)
 
 ### 🌐 Web & Frameworks  
