@@ -69,8 +69,8 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch0007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch0007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch0007&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -86,10 +86,10 @@ I enjoy building **scalable, clean, and user-centric products**, and I’m alway
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/driver-danger-alert-system">
+  <a href="https://github.com/ShadowMonarch0007/driver-danger-alert-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=driver-danger-alert-system&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/ecommerce-platform">
+  <a href="https://github.com/ShadowMonarch0007/ecommerce-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ecommerce-platform&theme=tokyonight" />
   </a>
 </p>
